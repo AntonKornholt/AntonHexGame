@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 638f2ecff6391d54eb79dcc3196db6ce
+timeCreated: 1517272459
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - HexPrefab: {fileID: 1128586668890356, guid: 3f56835f981fa5645b62500c12ebef1b,
+      type: 2}
+  - MeshWater: {instanceID: 0}
+  - MeshFlat: {instanceID: 0}
+  - MeshHill: {instanceID: 0}
+  - MeshMountain: {instanceID: 0}
+  - MatOcean: {instanceID: 0}
+  - MatPlains: {instanceID: 0}
+  - MatGrassLands: {instanceID: 0}
+  - MatMountains: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
